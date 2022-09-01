@@ -1,0 +1,20 @@
+<script>
+    let p= new Promise((resolve,reject) =>{
+         let a=1+10
+         if (a==2) {
+            resolve("hurrah!");
+         }
+
+         else{
+            reject("fail to solve");
+         }
+    })
+
+    p.then((message) =>{
+        console.log("this is the then " +message)
+    }).catch((message) =>{
+        console.log("this is in the catch " +message)
+    })
+
+
+</script>
