@@ -1,4 +1,3 @@
-<script>
     function sum(a,b,c) {
         console.log(a+b+c); 
     }
@@ -20,5 +19,3 @@
     console.log(arr2);
     console.log(arr3);
 
-
-</script>

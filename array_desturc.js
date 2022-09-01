@@ -1,4 +1,3 @@
-<script>
     var lang=["js","python","c++","java","c","html"];
 
     //array destructuring
@@ -12,5 +11,3 @@
     let n1,n2;
     [n1,n2]=lang;
     console.log(`my first fav language is ${n1} and second fav lang is ${n2}`);
-
-</script>

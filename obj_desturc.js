@@ -1,5 +1,4 @@
-<script>
-    const biodata={
+   const biodata={
         name:"ahsan",
         age:20,
         deg:"bachelors in CS",
@@ -36,5 +35,3 @@ function sum1(...inputs) {
     }
 
     sum1(10,10,20);
-
-</script>

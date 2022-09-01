@@ -1,4 +1,3 @@
-<script>
     //simple function
 
 //    var sum=function(){
@@ -24,6 +23,3 @@ const sum =(a,b=5) => a+b;
 
     console.log(sum(10));
 
-
-    
-</script>
